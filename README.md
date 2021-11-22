@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://github.com/hangjob/vue-admin"><b>vue-admin</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-admin?style=flat-square&labelColor=343b41"/></td>
-      <td></td>
+      <td><a href="https://github.com/hangjob/vue-admin/blob/master/README.md">文档</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hangjob/vue-vite-admin-ts"><b>vue-vite-admin-ts</b></a></td>
@@ -62,14 +62,14 @@ Here are some ideas to get you started:
       <td><a href="https://github.com/hangjob/docs">文档</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/hangjob/vue-multiple-webpack4-template"><b>vue-multiple-webpack4-template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-multiple-webpack4-template?style=flat-square&labelColor=343b41"/></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/hangjob/docs"><b>学习笔记</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/docs?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/hangjob/docs">链接</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hangjob/vue-multiple-webpack4-template"><b>vue-multiple-webpack4-template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-multiple-webpack4-template?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
