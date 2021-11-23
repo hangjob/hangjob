@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img alt="Npm" src="https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white" />
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![WebStorm](https://img.shields.io/badge/-WebStorm-%23007ACC?style=for-the-badge&logo=WebStorm)
 
 
 
