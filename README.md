@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://github.com/hangjob/docs"><b>学习笔记</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/docs?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/hangjob/docs">链接</a></td>
+      <td><a href="https://hangjob.github.io/docs/">链接</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hangjob/vue-multiple-webpack4-template"><b>vue-multiple-webpack4-template</b></a></td>
