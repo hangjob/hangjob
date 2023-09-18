@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img alt="PHP" src="https://img.shields.io/badge/-php-777bb3?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-84c255?style=for-the-badge&logo=Vite&logoColor=white" />
 <img alt="Npm" src="https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white" />
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)vue-bag-admin
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-%23007ACC?style=for-the-badge&logo=WebStorm)
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <td><a href="https://github.com/hangjob/vue-admin/blob/master/README.md">文档</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/hangjob/vue-vite-admin-ts"><b>vue-vite-admin-ts</b></a></td>
+      <td><a href="https://github.com/hangjob/vue-vite-admin-ts"><b>vue-bag-admin</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-vite-admin-ts?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/hangjob/docs">文档</a></td>
     </tr>
